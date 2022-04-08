@@ -1,0 +1,16 @@
+.table
+{
+    border: 1px solid black;
+}
+
+.lbl1
+{
+    margin-bottom: 20px;
+    font: 30px solid;
+    color:rgb(87, 192, 26);
+}
+
+.removebtn
+{
+    background-color: rgb(241, 15, 15);
+}

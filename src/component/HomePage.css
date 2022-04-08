@@ -1,0 +1,95 @@
+/*card*/ 
+.card{
+    margin-top: 100px;
+    margin-right: 5px;    
+    display: flex;
+    flex-wrap: wrap;
+    position: relative;
+
+  }
+
+  .card-title
+  {
+      font-size: 15px;
+      /* position: absolute; */
+      top: 5vh;
+      overflow: hidden;
+  }
+
+  /*image*/ 
+  .card-img-top
+  {
+    width: 120px;
+    height:100px 
+      
+  }
+
+  .card-id
+  {
+    text-align: left;  
+    font-size: 13px;
+    top: 0px;
+}
+
+.cls1
+{
+    display: flex;
+    flex-wrap: wrap;
+    padding: 1rem;
+    justify-content: center;
+}
+
+.buybtn
+{
+    margin-left: 2px;
+    width: 100px;
+    height: 25px;
+    position: absolute;
+    bottom: 0;
+    /* display: block; */
+}
+ .cartbtn
+{
+    /* position: absolute; */
+    margin-top: 5px;    
+    /* top: 5; */
+    /* margin-left: 1150px; */
+    right:0;
+    margin-bottom: 25px;
+} 
+
+.plusbtn
+{
+    
+    position: absolute;
+    bottom: 0;
+    margin-left: 120px;
+    width: 20px;
+    height: 25px;
+}
+
+.qtylbl
+{
+    position: absolute;
+    bottom: 0;
+    margin-left: 150px;
+}
+
+.minusbtn
+{
+    position: absolute;
+    bottom: 0;
+    margin-left: 170px;
+    width: 20px;
+    height: 25px;
+
+}
+
+/*add to cart*/ 
+/* .btn-primary
+{
+
+    width: 100px;
+    height: 25px;
+    
+} */
